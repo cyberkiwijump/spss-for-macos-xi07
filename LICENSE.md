@@ -1,4 +1,4 @@
-# 
+# vip SPSS for macOS Automation | data-import-export + code-autocompletion offers the most advanced SPSS for macOS automation, with data-import-export and code-autocompletion. Ideal
 
 
 
